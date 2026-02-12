@@ -1,0 +1,6 @@
+npm init -y // to initiate node js
+npm i express // to install express package
+must require every import to use
+
+express() // it to create instance which should save under variable { example: const app = express()}
+
