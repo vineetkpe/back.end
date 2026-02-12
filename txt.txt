@@ -4,3 +4,7 @@ must require every import to use
 
 express() // it to create instance which should save under variable { example: const app = express()}
 
+app.listen // is use to assig a location or address { to start our server [ example: app.listen(3000)]}  
+
+
+
