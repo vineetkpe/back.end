@@ -22,6 +22,13 @@ Delete Method = When we have to delete the data present on server.
 
 ------------------------- Third Chapter --------------------------
 
+(req.body)  = is the place where we get data from frontend or it can by any method post , get , put etc.
+
+steps is 
+
+1 file name + method define (like post or get )  than adress url or api,
+console.log in (req.body) [ place of data recieving]
+
 
 
 
