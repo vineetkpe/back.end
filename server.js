@@ -1,0 +1,9 @@
+// This File use to start server
+const app = require("./src/app.js")
+
+
+
+
+app.listen(3000, () =>{
+    console.log(" Server is Running")
+})

@@ -1,3 +1,5 @@
+------------------------ First Chapter ------------------------
+
 npm init -y // to initiate node js
 npm i express // to install express package
 must require every import to use
@@ -5,6 +7,23 @@ must require every import to use
 express() // it to create instance which should save under variable { example: const app = express()}
 
 app.listen // is use to assig a location or address { to start our server [ example: app.listen(3000)]}  
+
+
+---------------------- Second Chapter --------------------------
+
+Get Method = We use get method to fetch data from server.
+
+Post Method = When we have to send data to server.
+
+Patch method = When we have to update existing data present in server.
+
+Delete Method = When we have to delete the data present on server.
+
+
+------------------------- Third Chapter --------------------------
+
+
+
 
 
 
